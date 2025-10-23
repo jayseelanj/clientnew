@@ -1,2 +1,4 @@
 new file deleted
 new line added
+
+another line added with deletion
