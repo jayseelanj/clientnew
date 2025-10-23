@@ -1,6 +1,1 @@
-new file deleted
-new line added
-
-another line added with deletion
-
-text for changes
+new file created with clientA
