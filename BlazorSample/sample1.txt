@@ -1,2 +1,1 @@
-new file deleted
-new line added
+new file created with client B
